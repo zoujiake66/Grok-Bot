@@ -1,0 +1,77 @@
+[
+  {
+    "title": "用 iMessage 关键词唤醒 Routine",
+    "summary": "一份 7 步教程：用 iPhone 快捷指令监听含特定关键词的 iMessage，再通过 webhook 触发 Grok Bot 的 routine，让真实事件唤醒 bot。",
+    "author": "Michael_Fenech_",
+    "url": "https://x.com/Michael_Fenech_/status/2119885990437200101",
+    "publishedAt": "2026-11-09",
+    "tags": ["routine", "自动化"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  },
+  {
+    "title": "本月十个受欢迎的 Grok Bot",
+    "summary": "盘点本月最受欢迎的 10 个 Grok Bot，包括拦截骚扰电话、隐私清理、20 课入门课程、帮你设计新 bot 的 bot 等。",
+    "author": "0x_kaize",
+    "authorName": "kaize",
+    "url": "https://x.com/0x_kaize/status/2120084725695914302",
+    "publishedAt": "2026-11-10",
+    "tags": ["玩法合集"],
+    "engagement": null,
+    "collectedAt": "2026-11-16",
+    "note": "作者在文末推广了自己的网站"
+  },
+  {
+    "title": "和 Cursor 做出第一个应用",
+    "summary": "长文指南：用 Grok Bot 和 Cursor 云端编程 agent 做出第一个应用。步骤是先定义需求、交出去做、检查结果、再小步修改。",
+    "author": "silentguyy66",
+    "authorName": "silentguy",
+    "url": "https://x.com/silentguyy66/status/2119866692532674605",
+    "publishedAt": "2026-11-09",
+    "tags": ["入门", "编程"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  },
+  {
+    "title": "用好助理的三个习惯",
+    "summary": "三个好习惯。让助理给每条回复打标签，突出需要你做的决定；用真实、杂乱的任务不加提示地测试新 bot；口述日程让日历 bot 整理好再确认。",
+    "author": "BrianRoemmele",
+    "url": "https://x.com/BrianRoemmele/status/2119868112879145176",
+    "publishedAt": "2026-11-09",
+    "tags": ["技巧"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  },
+  {
+    "title": "给每个 Agent 写清边界",
+    "summary": "转述 SpaceXAI 工程师 Lauren Tan 的多 agent 协作方法。给每个 agent 明确目标、权限、验收标准和升级节点，并把反复的纠正变成规则。",
+    "author": "0xChaseTM",
+    "authorName": "Chase",
+    "url": "https://x.com/0xChaseTM/status/2120652619009905098",
+    "publishedAt": "2026-11-11",
+    "tags": ["多 agent 协作"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  },
+  {
+    "title": "五个 Bot 分工做销售",
+    "summary": "5 个 bot 分工的销售方案：找线索、调研、写首次触达、跟进、管理销售漏斗。共用一份线索记录，先小批量测试再扩大。",
+    "author": "Michael_Fenech_",
+    "url": "https://x.com/Michael_Fenech_/status/2121684843645796465",
+    "publishedAt": "2026-11-14",
+    "tags": ["workflow", "多 agent 协作"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  },
+  {
+    "title": "用 Bot 打理 X 账号",
+    "summary": "运营 X 账号的三个技巧。用官方连接器每天扫描并总结私信，把自己的帖子归档作为风格参考，从回复里挖选题。",
+    "author": "xiaomovps",
+    "authorName": "小墨同学",
+    "url": "https://x.com/xiaomovps/status/2120151709163098397",
+    "publishedAt": "2026-11-10",
+    "tags": ["技巧", "X 运营"],
+    "engagement": null,
+    "collectedAt": "2026-11-16"
+  }
+]

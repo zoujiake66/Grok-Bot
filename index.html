@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grok Bot 最新实用教学</title>
+  <meta name="description" content="整理 X 上关于 Grok Bot 桌面 AI 助理的最新使用教程、技巧和玩法。按标签筛选，也可搜索标题、摘要和作者。">
+  <meta property="og:title" content="Grok Bot 最新实用教学">
+  <meta property="og:description" content="整理 X 上关于 Grok Bot 的最新教程、技巧和玩法。">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#f3eee6">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip" href="#tutorials">跳到教程列表</a>
+  <header class="masthead">
+    <div class="wrap">
+      <div class="eyebrow-row">
+        <p class="eyebrow">来自 X 的用法笔记</p>
+        <p class="stat" id="collected-stat">读取中…</p>
+      </div>
+      <h1>Grok Bot 最新实用教学</h1>
+      <p class="lede">整理这款桌面 AI 助理在 X 上的最新教程、技巧和玩法。可以按标签筛选，也可以搜索标题、摘要和作者。点开卡片，就会在新标签页回到原帖。</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="toolbar" aria-label="筛选教程">
+      <label class="search">
+        <span>搜索</span>
+        <input id="search" type="search" enterkeyhint="search" placeholder="标题、摘要、作者或标签" autocomplete="off">
+      </label>
+      <div class="tags" id="tags" role="toolbar" aria-label="按标签筛选"></div>
+    </section>
+    <p class="result-line" id="result-line" aria-live="polite"></p>
+    <section id="tutorials" aria-label="教程列表">
+      <div id="list" class="cards" hidden></div>
+      <p id="status" class="status">正在读取教程…</p>
+    </section>
+  </main>
+  <footer class="wrap site-foot">
+    <p>按收录日期从新到旧排列，同一天保持数据文件里的顺序。本站只做索引，原文在 X。</p>
+  </footer>
+  <noscript>
+    <p class="wrap noscript">请开启 JavaScript。页面需要它来读取 data/tutorials.json。</p>
+  </noscript>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
